@@ -28,6 +28,6 @@ DATE - Initial Draft
 
 ## Legal Stuff
 
-This proposal is non-binding and may not be implemented, may be implemented partially, differently or not at all. Any intellectual property developed as part of this proposal is owned and Copyright (c) 2015 by Appcelerator, Inc. All Rights Reserved.
+This proposal is non-binding and may not be implemented, may be implemented partially, differently or not at all. Any intellectual property developed as part of this proposal is owned and Copyright &copy; 2015 by Appcelerator, Inc. All Rights Reserved.
 
 For more information about what a CSPEC is, please visit the [Community Specifications & Proposals Repo](https://github.com/appcelerator/cspec).
