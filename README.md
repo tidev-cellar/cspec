@@ -4,6 +4,8 @@ This is the Appcelerator Community Specifications and Proposals repository.
 
 ## Pending Proposals
 
+- [CSPEC-1](https://github.com/appcelerator/cspec-titanium-multithreading) Titanium Multithreading support
+
 ## How to submit a CSPEC
 
 We welcome a CSPEC from anyone in the community and encourage you to submit it.  Please follow these guidelines:
