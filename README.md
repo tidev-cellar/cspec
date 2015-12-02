@@ -24,7 +24,7 @@ Here are some best practice guidelines when writing a CSPEC:
 - When writing a CSPEC, try and provide good examples of the problem and/or use cases to help illustrate the need
 - If there are open / unresolved issues, create a section listing them for feedback and resolution
 - Link to other resources (documentation, references, etc) and don't always assume the reader knows or can find them. Make it easy for them.
-- Make sure the CSPEC is narrowly _focused_ around a specific API, etc. Broad brush features or suggestions will not be helpful or approved for consideration.  The goal for the CSPEC is to provide enough detail to implement, test and document.
+- Make sure the CSPEC is narrowly _focused_ around a specific API, etc. Broad brush features or suggestions will not be helpful or approved for consideration.  The goal for the CSPEC is to provide enough detail to discuss and debate and if approved, then to implement, test and document.
 
 ## Legal Stuff
 
