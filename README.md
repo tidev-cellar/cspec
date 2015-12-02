@@ -29,5 +29,5 @@ Here are some best practice guidelines when writing a CSPEC:
 
 ## Legal Stuff
 
-These proposals are non-binding and may not be implemented, may be implemented partially, differently or not at all. Any intellectual property developed as part of these proposals are owned and Copyright (c) 2015 by Appcelerator, Inc. All Rights Reserved.
+These proposals are non-binding and may not be implemented, may be implemented partially, differently or not at all. Any intellectual property developed as part of these proposals are owned and Copyright &copy; 2015 by Appcelerator, Inc. All Rights Reserved.
 
