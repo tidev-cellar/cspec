@@ -21,7 +21,7 @@ We welcome a CSPEC from anyone in the community and encourage you to submit it. 
 
 Here are some best practice guidelines when writing a CSPEC:
 
-- Since you CSPEC is a git repository, you should add test cases, example application code, etc. to your proposal. This will help make sure we have good examples of use cases as well as communicate to implementers, quality engineers, documentation team, etc. information about what is being implemented.
+- Since your CSPEC is a git repository, you should add test cases, example application code, etc. to your proposal. This will help make sure we have good examples of use cases as well as communicate to implementers, quality engineers, documentation team, etc. information about what is being implemented.
 - When writing a CSPEC, try and provide good examples of the problem and/or use cases to help illustrate the need
 - If there are open / unresolved issues, create a section listing them for feedback and resolution
 - Link to other resources (documentation, references, etc.) and don't always assume the reader knows or can find them. Make it easy for them.
