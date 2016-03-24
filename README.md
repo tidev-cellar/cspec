@@ -7,6 +7,7 @@ This is the Appcelerator Community Specifications and Proposals repository.
 - [CSPEC-1](https://github.com/appcelerator/cspec-titanium-multithreading) Titanium Multithreading support
 - [CSPEC-2](https://github.com/appcelerator/cspec-appc-appc.js) Unified appc.js file format
 - [CSPEC-3](https://github.com/hansemannn/cspec-titanium-hyperloop-modules) Titanium Hyperloop Modules
+- [CSPEC-4](https://github.com/yuchi/cspec-titanium-packagers-support) Titanium support for Package(r)s
 
 ## How to submit a CSPEC
 
